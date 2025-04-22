@@ -1,4 +1,4 @@
-package listaDuplamenteEncadeada;
+package Questao01;
 
 import java.util.Scanner;
 
@@ -53,6 +53,7 @@ public class TestaListaDuplamenteEncadeada {
 			
 		}while(escolha!=4);
 		
+		sc.close();
 	}
 
 }

@@ -1,4 +1,4 @@
-package listaDuplamenteEncadeada;
+package Questao01;
 
 public class ListaDuplamenteEncadeada {
 	
@@ -59,5 +59,20 @@ public class ListaDuplamenteEncadeada {
     	}
     	
     	System.out.println();
+    }
+
+    public void removerInicio() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'removerInicio'");
+    }
+
+    public void removerFim() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'removerFim'");
+    }
+
+    public int tamanho() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'tamanho'");
     }
 }

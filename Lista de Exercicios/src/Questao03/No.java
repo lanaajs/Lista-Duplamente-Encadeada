@@ -1,17 +1,17 @@
-package Questao01;
+package Questao03;
 
 public class No {
 	
 	 public No anterior = null;
 	 public No proximo = null;
-	 public int dado;
+	 public Estudante dado;
 	 
 	 //get's e set's
 	 public No getAnterior() {
 		return anterior;
 	 }
 	 
-	 public int getDado() {
+	 public Estudante getDado() {
 		return dado;
 	 }
 	 
@@ -23,7 +23,7 @@ public class No {
 		this.anterior = anterior;
 	 }
 	 
-	 public void setDado(int dado) {
+	 public void setDado(Estudante dado) {
 		this.dado = dado;
 	 }
 	 
